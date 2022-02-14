@@ -3,7 +3,7 @@ if not MSQ then return end
 
 local Version = GetAddOnMetadata("Masque_Opharg","Version")
 local Websites = {
-	
+	"https://github.com/JonathanStolte/Masque_Opharg"
 }
 
 MSQ:AddSkin("Opharg", {
