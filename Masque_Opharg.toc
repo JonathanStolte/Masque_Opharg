@@ -1,0 +1,10 @@
+## Interface: 90105
+## Title: Masque: Opharg
+## Notes: Opharg's skin for Masque
+## Author: Opharg
+## Version: 9.1.5
+## Dependencies: Masque
+
+## X-Website: 
+
+Masque_Opharg.lua
