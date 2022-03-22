@@ -1,8 +1,8 @@
-## Interface: 90105
+## Interface: 90200
 ## Title: Masque: Opharg
 ## Notes: Opharg's skin for Masque
 ## Author: Opharg
-## Version: 9.1.5
+## Version: 9.2.0
 ## Dependencies: Masque
 
 ## X-Website: https://github.com/JonathanStolte/Masque_Opharg
